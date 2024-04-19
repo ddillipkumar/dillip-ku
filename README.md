@@ -1,4 +1,4 @@
-<p align="center"><img width="50%" height="auto" src="./assets/banner.png"></p>
+<!--<p align="center"><img width="50%" height="auto" src="./assets/banner.png"></p>--->
 <h1 align="center">Hi 👋, I'm Dillip</h1>
 
 <p align="center">
@@ -9,8 +9,8 @@
 - 📫 How to reach me **ddillipkumartech@gmail.com**
 
 ## 🙋‍♀️ Let's Connect
-
+<!---
 <p align="center">
 	<a href="ddillipkumartech@gmail.com"><img src="./assets/email.png" alt="Gmail"/></a>
 	<a href="https://github.com/dillip-ku"><img src="./assets/github.png" alt="GitHub"/></a>
-</p>
+</p>--->
