@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dillip-Kumar
-- 👀 I’m interested in codeing..
+- 👀 I’m interested in @
 - 🌱 I’m currently learning Next.Js, React Native
-- 📫 How to reach me +91 7019572574 
+- 📫 How to reach me @@@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
