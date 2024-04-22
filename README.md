@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dillip</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=CFF786&center=true&multiline=true&random=false&width=445&lines=I+am+a+Full+Stack+Developer+;Exciting+to+Learn+New+Technology+!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=A6F77B&center=true&vCenter=true&multiline=true&random=false&width=450&height=100&lines=I+am+Full+Stack+Web+Developer;Passionate+to+Learning+and+Developing+" alt="Typing SVG" /></a>
 </p>
 
 - 🌱 I’m currently learning [Next.js](https://nextjs.org/)  , [MongoDB](https://www.mongodb.com/) & [React-Native](https://reactnative.dev/)
